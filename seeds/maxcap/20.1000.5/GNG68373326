@@ -1,0 +1,31 @@
+68373326           0     1000000           1    0.900000    1.000000
+   20000    25    25     1000000   1.0 100.0 10000     0     0   100   100     5     5
+   ISEED       ICOPT      FINITY       IFGEN       GFMIN       GFMAX
+   NODES NSORC NSINK        DENS PMINC PMAXC  TSUPNTSORCNTSINK IPHIC IPCAP PMICP PMAXP
+C          1       8 DIGIT POSITIVE INTEGER TO INITIALIZE        ISEED
+C                  THE RANDOM NUMBER GENERATOR. (MUST HAVE
+C                  AT LEAST ONE NON-ZERO DIGIT IN COLUMNS
+C                  1-8)
+C          2       CIRCULARIZATION FLAG (0=NOT CIRCULARIZED)    ICOPT
+C          3       LARGEST POSSIBLE FLOW VALUE (INFINITY)...    FINITY
+C          4       GENERALIZED FLAG (0=NOT GENERALIZED).....    IFGEN
+C          5       MINIMUM MULTIPLIER.......................    GFMIN
+C          6       MAXIMUM MULTIPLIER.......................    GFMAX
+C
+C     CARD 2.
+C          1       TOTAL NUMBER OF NODES....................    NODES
+C          2       TOTAL NUMBER OF SOURCE NODES (INCLUDING
+C                  TRANSHIPMENT SOURCES)....................    NSORC
+C          3       TOTAL NUMBER OF SINK NODES (INCLUDING
+C                  TRANSHIPMENT SINKS)......................    NSINK
+C          4       NUMBER OF ARCS...........................    DENS
+C          5       MINIMUM COST FOR ARCS....................    PMINC
+C          6       MAXIMUM COST FOR ARCS....................    PMAXC
+C          7       TOTAL SUPPLY.............................    TSUP
+C          8       NUMBER OF TRANSHIPMENT SOURCE NODES......    NTSORC
+C          9       NUMBER OF TRANSHIPMENT SINK NODES........    NTSINK
+C         10       PERCENTAGE OF SKELETON ARCS TO BE GIVEN
+C                  THE MAXIMUM COST.........................    IPHIC
+C         11       PERCENTAGE OF ARCS TO BE CAPACITATED.....    IPCAP
+C         12       MINIMUM UPPER BOUND FOR CAPACITATED ARCS.    PMICP
+C         13       MAXIMUM UPPER BOUND FOR CAPACITATED ARCS.    PMACP

@@ -1,0 +1,10 @@
+graphs/maxcap/20.1000.5/GNG15179836.txt.gz
+graphs/maxcap/20.1000.5/GNG22382101.txt.gz
+graphs/maxcap/20.1000.5/GNG31757990.txt.gz
+graphs/maxcap/20.1000.5/GNG38811773.txt.gz
+graphs/maxcap/20.1000.5/GNG51906493.txt.gz
+graphs/maxcap/20.1000.5/GNG68373326.txt.gz
+graphs/maxcap/20.1000.5/GNG76823860.txt.gz
+graphs/maxcap/20.1000.5/GNG78186899.txt.gz
+graphs/maxcap/20.1000.5/GNG96046240.txt.gz
+graphs/maxcap/20.1000.5/GNG97943698.txt.gz

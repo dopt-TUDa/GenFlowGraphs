@@ -1,0 +1,10 @@
+graphs/nsupp/20.1000.25/GNG16591370.txt.gz
+graphs/nsupp/20.1000.25/GNG24612008.txt.gz
+graphs/nsupp/20.1000.25/GNG33090136.txt.gz
+graphs/nsupp/20.1000.25/GNG48711163.txt.gz
+graphs/nsupp/20.1000.25/GNG55657963.txt.gz
+graphs/nsupp/20.1000.25/GNG76927939.txt.gz
+graphs/nsupp/20.1000.25/GNG78550470.txt.gz
+graphs/nsupp/20.1000.25/GNG78724403.txt.gz
+graphs/nsupp/20.1000.25/GNG81076540.txt.gz
+graphs/nsupp/20.1000.25/GNG94406023.txt.gz

@@ -1,0 +1,10 @@
+seeds/maxcap/20.1000.5/GNG15179836
+seeds/maxcap/20.1000.5/GNG22382101
+seeds/maxcap/20.1000.5/GNG31757990
+seeds/maxcap/20.1000.5/GNG38811773
+seeds/maxcap/20.1000.5/GNG51906493
+seeds/maxcap/20.1000.5/GNG68373326
+seeds/maxcap/20.1000.5/GNG76823860
+seeds/maxcap/20.1000.5/GNG78186899
+seeds/maxcap/20.1000.5/GNG96046240
+seeds/maxcap/20.1000.5/GNG97943698
