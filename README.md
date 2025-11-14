@@ -15,7 +15,7 @@ The following modifications have been applied to GNETGEN:
 
 In **graphs/energy** two additional instances can be found. They were obtained by extracting the generalized flow problem of two energy planning tools:
 
-- **CESM.dmx**: Flow problem from [CESM](10.5281/zenodo.13902515) (Hajikazemi, Barbosa 2024) modeling the German energy demand with a 50 years planning horizon with 365 time steps per year.
+- **CESM.dmx**: Flow problem from [CESM](http://dx.doi.org/10.5281/zenodo.13902515) (Hajikazemi, Barbosa 2024) modeling the German energy demand with a 50 years planning horizon with 365 time steps per year.
 - **P2H.dmx**: Flow problem from a Power-to-Heat example model provided by Siemens in the context of a joint research project (RODES) modeling two conversion processes (Gas Boiler + Heatpump) to create heat energy. The graph is obtained by modeling the problem with a 8760 time steps resolution.
 
 ## Tools
@@ -65,4 +65,4 @@ Jonas Alker & Marc E. Pfetsch
 
 ## Acknowledgements
 
- Supported by the german BMFTR in the context of the RODES project.
+ Supported by the German BMFTR in the context of the RODES project.
