@@ -11,6 +11,8 @@ The following modifications have been applied to GNETGEN:
 - increase maximal number of arcs
 - increase precision on arc efficiencies to six decimal places
 
+The directory **graphs/2e7** contains a very large instance with 20.000.000 arcs.
+
 ## Energy Systems Graphs
 
 In **graphs/energy** two additional instances can be found. They were obtained by extracting the generalized flow problem of two energy planning tools:
